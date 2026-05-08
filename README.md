@@ -24,9 +24,9 @@ The aim is to help engineers review calculations more consistently by checking w
 
 - It does not replace a competent geotechnical designer or checker
 - It does not certify compliance
-- It does not remove the need for project-specific judgement
+- It does not remove the need for project-specific judgment
 - It does not validate the ground model or parameter derivation
-- It should not be used without independent engineering review
+- It should not be used without an independent engineering review
 
 ## Intended use
 
@@ -34,4 +34,4 @@ This skill is intended as a technical review assistant for engineers who want to
 
 ## Status
 
-Public demo version. Developed as part of GeotechPython.
+Public demo version. 
